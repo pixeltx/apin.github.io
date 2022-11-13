@@ -1,0 +1,23 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#interest {
+  background-color: #e2edff;
+}
+
+footer {
+  background-color: #0dcaf0;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+nav {
+  background-color: #0dcaf0;
+}
